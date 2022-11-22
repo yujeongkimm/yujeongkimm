@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=350&section=header&text=YuJeong%20Github!&fontSize=90&animation=fadeIn)
 
-<h4 align="center">👋 Hi there! I'm a growing backend developer using Springboot.🚀 </h4>
+<h4 align="center">👋 Hi there! I'm a backend developer using Springboot.🚀 </h4>
 
 
 <p align="center">
