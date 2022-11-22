@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=GithubAcions&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHubX&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GitX&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeongkimm&show_icons=true&theme=radical)
