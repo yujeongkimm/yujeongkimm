@@ -10,9 +10,9 @@
 https://github.com/DSWU-Unicorn
 - 프로보노 ICT 멘토링 공모전	과학기술정보통신부	동상	2022-12-02
 https://github.com/deulli-ne
-- 파블로항공 기업 프로젝트 대상 2022.10.19 
+- 파블로항공 기업 프로젝트 대상 2022-10-19 
 https://github.com/Kusitms-pabloAir
-- KUSITMS 25기 밋업데이 장려상 2022.05.28 
+- KUSITMS 25기 밋업데이 장려상 2022-05-28 
 https://github.com/Kusitms-25th-forPet
 
 ## 🚀 Release
